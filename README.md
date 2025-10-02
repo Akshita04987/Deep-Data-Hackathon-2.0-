@@ -15,6 +15,7 @@ Climate change is accelerating globally, with rising CO₂, extreme weather, and
 4. Key Insights & Recommendations
 
 ## How to Use
-1. Open pythoncode.iypnb
-2. Open dashboard/TriByte_Dashboard.pbix in Power BI
-3. Watch video/TriByte_Presentation.mp4 for 3–5 min demo
+1. open cleaned dataset
+2. Open pythoncode.iypnb
+3. Open dashboard/TriByte_Dashboard.pbix in Power BI
+4. open presentation/TriByte_Presentation.ppt
